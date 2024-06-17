@@ -1,16 +1,13 @@
-## Hi there 👋
+## ️ Hi there! I'm a university student on a quest to become an indie game developer. 
 
-<!--
-**DesvoSoft/DesvoSoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fueled by a passion for video games, independent creation, I'm actively learning to bring my game ideas to life and explore web and software development possibilities. 
 
-Here are some ideas to get you started:
+In the meantime, I'm always scouring online resources to expand my programming knowledge and explore the magic of software development.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Looking forward to connecting with other developers and embarking on this exciting journey together! 
+
+**Languages:**
+
+* Python
+* JavaScript (JS)
+* Cascading Style Sheets (CSS)
