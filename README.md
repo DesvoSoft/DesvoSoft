@@ -1,4 +1,6 @@
-## ️ Hi there! I'm a university student on a quest to become an indie game developer. 
+## ️ Hi there!
+
+My name is Johan, known as Desvo, and I'm a quest to become an indie game developer.
 
 Fueled by a passion for video games, independent creation, I'm actively learning to bring my game ideas to life and explore web and software development possibilities. 
 
