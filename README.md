@@ -1,12 +1,8 @@
 ## ️ Hi there!
 
-My name is Johan, known as Desvo, and I'm a quest to become an indie game developer.
+My name is Johan, known as Desvo, and I'm on a quest to become an indie game developer.
 
-Fueled by a passion for video games, independent creation, I'm actively learning to bring my game ideas to life and explore web and software development possibilities. 
-
-In the meantime, I'm always scouring online resources to expand my programming knowledge and explore the magic of software development.  
-
-Looking forward to connecting with other developers and embarking on this exciting journey together! 
+Fueled by a passion for video games, independent creation, I'm learning to bring my ideas to life and explore web and software development possibilities. 
 
 **Languages:**
 
