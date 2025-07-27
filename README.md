@@ -10,7 +10,8 @@ I'm an aspiring **game developer** passionate about transforming ideas and dream
 ---
 
 * **Engines & Frameworks:**
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="30"/> React
+  
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="30"/> React  
     <img src="https://api.iconify.design/logos:astro.svg" alt="Astro" width="30"/> Astro
 
     Currently focused on mastering the **GODOT** engine.
