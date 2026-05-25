@@ -1,10 +1,11 @@
 # Hi there, I'm Desvo!
+<br>
 
 ### Aspiring Game Developer | Full-Stack Explorer
 
 I am passionate about transforming ideas, stories, and dreams into digital worlds and interactive experiences. Currently, I'm fully immersed in game mechanics, 3D modeling, and bridging the gap between web tech and interactive media.
 
----
+<br>
 
 ### Featured Open Source Projects
 
@@ -12,6 +13,7 @@ I am passionate about transforming ideas, stories, and dreams into digital world
 
 #### **[Vitra CSS](https://github.com/DesvoSoft/Vitra)**: A high-performance CSS framework for modern web applications. It specializes in Glassmorphism, Motion Design, and Cinematic Visual Effects.
 
+<br>
   
 ---
 
@@ -21,25 +23,19 @@ I am passionate about transforming ideas, stories, and dreams into digital world
 
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="30"/>    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="Javascript" width="30"/>    <img src="https://github.com/CSS-Next/logo.css/blob/main/primary/css.png?raw=true" width="30"/>    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="30"/>    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="30"/>
 
+### Engines & Frameworks: 
 
-
----
-
-
-
-* **Engines & Frameworks:**
-
-  
-
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="30"/> React  
-    <img src="https://icon.icepanel.io/Technology/png-shadow-512/Astro.png" alt="Astro" width="30"/> Astro
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="30"/> React  
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Astro.png" alt="Astro" width="30"/> Astro
 
 ---
 
-What I'm Up To Right Now
+### What I'm Up To Right Now
 * Mastering **Godot Engine** for both 2D and 3D projects. <img src="https://icon.icepanel.io/Technology/svg/Godot-Engine.svg" alt="Godot Engine" width="30"/>
 * Improving my 3D modeling, texturing, and animation workflow in **Blender**. <img src="https://icon.icepanel.io/Technology/svg/Blender.svg" alt="Blender" width="30"/>
 
----
+<br>
+<br>
+
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-20A7FE?style=for-the-badge&logo=virtualbox&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
