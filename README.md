@@ -8,9 +8,11 @@ I am passionate about transforming ideas, stories, and dreams into digital world
 
 ### Featured Open Source Projects
 
-#### **[ZeroBlockBridge](https://github.com/DesvoSoft/ZeroBlockBridge)**: A desktop application that helps create a Minecraft server without complex setup, port forwarding, or unsafe configurations.
+#### **[ZeroBlockBridge](https://github.com/DesvoSoft/ZeroBlockBridge)**
+A desktop application that helps create a Minecraft server without complex setup, port forwarding, or unsafe configurations.
 
-#### **[Vitra CSS](https://github.com/DesvoSoft/Vitra)**: A high-performance CSS framework for modern web applications. It specializes in Glassmorphism, Motion Design, and Cinematic Visual Effects.
+#### **[Vitra CSS](https://github.com/DesvoSoft/Vitra)**
+A high-performance CSS framework for modern web applications. It specializes in Glassmorphism, Motion Design, and Cinematic Visual Effects.
 
   
 ---
