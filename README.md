@@ -8,19 +8,10 @@ I am passionate about transforming ideas, stories, and dreams into digital world
 
 ### Featured Open Source Projects
 
-#### **[ZeroBlockBridge](https://github.com/DesvoSoft/ZeroBlockBridge)**
-A desktop application that turns any computer into a Minecraft server—no complex setup, port forwarding, or unsafe configurations required.
+#### **[ZeroBlockBridge](https://github.com/DesvoSoft/ZeroBlockBridge)**: A desktop application that helps create a Minecraft server without complex setup, port forwarding, or unsafe configurations.
 
-* **Built-in Tunneling:** Integrated Playit.gg setup with persistent sessions and automated DNS recovery.
-* **Mod & Player Management:** One-click Modrinth mod installation and a unified player control panel.
-* **Auto-Healing Engine:** Features an advanced watchdog for crash detection, zombie process identification, and real-time TPS monitoring.
+#### **[Vitra CSS](https://github.com/DesvoSoft/Vitra)**: A high-performance CSS framework for modern web applications. It specializes in Glassmorphism, Motion Design, and Cinematic Visual Effects.
 
-#### **[Vitra CSS](https://github.com/DesvoSoft/Vitra)**
-A high-performance CSS framework for modern web applications. It specializes in Glassmorphism, Motion Design, and Cinematic Visual Effects.
-
-* **Modern CSS Architecture:** Built on a strict `@layer` cascade to eliminate specificity leaks. Fully leverages cutting-edge features like `@container` queries, `@starting-style` transitions, the native Popover API, and the premium `oklch()` color space.
-* **Cinematic Motion & Particles:** Packed with a 17-choreographed keyframe motion engine and a native hybrid particle system capped for resource safety to ensure good performance.
-* **Lightweight & High-Performance:** Exceptionally optimized footprint with a tiny bundle size (~10.5 KB CSS / ~3.7 KB JS brotlied).
   
 ---
 
